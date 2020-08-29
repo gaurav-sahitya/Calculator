@@ -10,8 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94115c23-7353-4c30-a6d5-b5929c027a72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="94115c23-7353-4c30-a6d5-b5929c027a72" name="Default Changelist" comment="&quot;creating interface&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../phone-book" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,6 +60,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python3.8" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -69,6 +96,14 @@
       <option name="presentableId" value="Default" />
       <updated>1598632699132</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;creating interface&quot;">
+      <created>1598636330575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598636330575</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,43 +116,52 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;creating interface&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;creating interface&quot;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="743" y="277" width="424" height="478" key="FileChooserDialogImpl" timestamp="1598635545471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="743" y="277" width="424" height="478" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598635545471" />
-    <state width="1899" height="277" key="GridCell.Tab.0.bottom" timestamp="1598636269319">
+    <state width="1899" height="277" key="GridCell.Tab.0.bottom" timestamp="1598720264306">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598636269319" />
-    <state width="1899" height="277" key="GridCell.Tab.0.center" timestamp="1598636269318">
+    <state width="1899" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598720264306" />
+    <state width="1899" height="277" key="GridCell.Tab.0.center" timestamp="1598720264305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598636269318" />
-    <state width="1899" height="277" key="GridCell.Tab.0.left" timestamp="1598636269317">
+    <state width="1899" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598720264305" />
+    <state width="1899" height="277" key="GridCell.Tab.0.left" timestamp="1598720264304">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598636269317" />
-    <state width="1899" height="277" key="GridCell.Tab.0.right" timestamp="1598636269319">
+    <state width="1899" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598720264304" />
+    <state width="1899" height="277" key="GridCell.Tab.0.right" timestamp="1598720264305">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598636269319" />
-    <state width="1899" height="342" key="GridCell.Tab.1.bottom" timestamp="1598634254508">
+    <state width="1899" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598720264305" />
+    <state width="1899" height="342" key="GridCell.Tab.1.bottom" timestamp="1598718262992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598634254508" />
-    <state width="1899" height="342" key="GridCell.Tab.1.center" timestamp="1598634254507">
+    <state width="1899" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598718262992" />
+    <state width="1899" height="342" key="GridCell.Tab.1.center" timestamp="1598718262992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598634254507" />
-    <state width="1899" height="342" key="GridCell.Tab.1.left" timestamp="1598634254507">
+    <state width="1899" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598718262992" />
+    <state width="1899" height="342" key="GridCell.Tab.1.left" timestamp="1598718262991">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598634254507" />
-    <state width="1899" height="342" key="GridCell.Tab.1.right" timestamp="1598634254508">
+    <state width="1899" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598718262991" />
+    <state width="1899" height="342" key="GridCell.Tab.1.right" timestamp="1598718262992">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598634254508" />
+    <state width="1899" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598718262992" />
+    <state x="555" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2" timestamp="1598636335466">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="255" width="800" height="522" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598636335466" />
   </component>
 </project>
